@@ -12,6 +12,7 @@ use Tempest\Log\LogConfig;
 
 /**
  * @internal
+ * @small
  */
 final class GenericLoggerTest extends TestCase
 {
